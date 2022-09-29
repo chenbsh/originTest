@@ -1,3 +1,0 @@
-git remote add Test git@github.com:chenbsh/Test.git
-
-推送：git push Test master
